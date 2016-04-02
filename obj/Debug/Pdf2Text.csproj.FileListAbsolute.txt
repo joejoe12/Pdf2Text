@@ -1,0 +1,13 @@
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\Pdf2Text.exe
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\Pdf2Text.pdb
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\commons-logging.dll
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\fontbox-1.8.9.dll
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\IKVM.OpenJDK.Core.dll
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\IKVM.OpenJDK.Text.dll
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\IKVM.OpenJDK.Util.dll
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\IKVM.Runtime.dll
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\pdfbox-1.8.9.dll
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\obj\Debug\Pdf2Text.csprojResolveAssemblyReference.cache
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\obj\Debug\Pdf2Text.exe
+L:\DownLoads\Chrome\Pdf2Text.Full.20150420\Pdf2Text\obj\Debug\Pdf2Text.pdb
